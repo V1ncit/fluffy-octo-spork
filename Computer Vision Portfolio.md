@@ -46,7 +46,7 @@ As the test image is fairly simple without a lot of noise or distortion, the ker
 For edge detection, Canny was used with a low threshold of 50 and a high of 150. This was sufficient as the image was simple. 
 
 Canny result:<br>
-![imgCanny](cv-usecase1-imgCanny.png){ style="display: block; margin: 0 auto" }
+![imgCanny](cv-usecase1-imgCanny.png)
 
 The Canny image was dilated with a kernel of 3x3 to close any possible gaps from the edge detection.
 
